@@ -1,0 +1,5 @@
+{
+  "name": "AI Pakaian Adat Editor",
+  "description": "Unggah foto Anda dan pilih pakaian adat tradisional Indonesia untuk mengubah pakaian Anda secara ajaib menggunakan model Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
