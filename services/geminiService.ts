@@ -11,7 +11,7 @@ export async function editImageWithPrompt(
 
     try {
         const response = await ai.models.generateContent({
-            model: 'gemini-2.0-flash-preview-image-generation',
+            model: 'imagen-3.0-generate',
             contents: {
                 parts: [
                     {
